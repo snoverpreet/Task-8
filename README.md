@@ -1,6 +1,4 @@
-# Task-8
-
-**Working with VPNs**
+# Task-Working with VPNs
 
 **Step 1: Choose and Sign Up for a Free VPN**
 
